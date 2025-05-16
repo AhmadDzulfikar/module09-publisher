@@ -28,10 +28,14 @@ URL amqp://guest:guest@localhost:5672 berarti program publisher dan subscriber a
 
 ![image](https://github.com/user-attachments/assets/95216288-71fa-4b01-b698-5ad9fce48cf1)
 
+Setelah beberapa kali menjalankan perintah cargo run pada console publisher, console subscriber langsung menampilkan 5 pesan secara bertahap, sesuai dengan alur program yang telah dibuat.
+
 ### Monitoring chart based on publisher.
 ![image](https://github.com/user-attachments/assets/e5f5b6d0-cec5-488c-965b-388f1459cc65)
 
 ![image](https://github.com/user-attachments/assets/76f65265-30ec-47db-bdc5-41d8c5174dbf)
+
+Terjadi lonjakan pada grafik kedua akibat pengiriman permintaan cargo run berulang kali dari publisher, yang menyebabkan peningkatan tiba-tiba pada laju pesan yang diterima oleh subscriber.
 
 
 
