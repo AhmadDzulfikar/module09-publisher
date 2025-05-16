@@ -14,3 +14,6 @@ URL amqp://guest:guest@localhost:5672 berarti program publisher dan subscriber a
 - guest:guest: Ini adalah username dan password yang digunakan untuk autentikasi ke broker RabbitMQ. Dalam hal ini, username dan password yang digunakan adalah guest.
 - localhost: Ini adalah alamat hostname atau IP dari server tempat RabbitMQ berjalan. Dalam hal ini, "localhost" berarti RabbitMQ berjalan di mesin yang sama dengan aplikasi publisher dan subscriber.
 - 5672: Ini adalah port yang digunakan oleh RabbitMQ untuk mendengarkan permintaan AMQP. Port 5672 adalah port default untuk AMQP.
+
+### Runing RabbitMQ as Message Broker
+![image](https://github.com/user-attachments/assets/090f2ef1-102c-461b-9e31-ef97ddebce7e)
