@@ -17,3 +17,15 @@ URL amqp://guest:guest@localhost:5672 berarti program publisher dan subscriber a
 
 ### Runing RabbitMQ as Message Broker
 ![image](https://github.com/user-attachments/assets/090f2ef1-102c-461b-9e31-ef97ddebce7e)
+
+
+### After cargo run and have one connection as shown
+![image](https://github.com/user-attachments/assets/e8d4c80d-9798-4abc-83a9-850adcc6f719)
+
+### Terminal
+
+![image](https://github.com/user-attachments/assets/5512c898-18ec-4ede-83c9-7422da89e8c6)
+
+![image](https://github.com/user-attachments/assets/95216288-71fa-4b01-b698-5ad9fce48cf1)
+
+
