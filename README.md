@@ -29,3 +29,9 @@ URL amqp://guest:guest@localhost:5672 berarti program publisher dan subscriber a
 ![image](https://github.com/user-attachments/assets/95216288-71fa-4b01-b698-5ad9fce48cf1)
 
 
+### Monitoring chart based on publisher.
+![image](https://github.com/user-attachments/assets/71cf18d1-887f-4e46-8fc9-a9b98324bdce)
+
+![image](https://github.com/user-attachments/assets/2fe9e9e3-e77f-41f0-a622-f7a32112c8b4)
+
+
